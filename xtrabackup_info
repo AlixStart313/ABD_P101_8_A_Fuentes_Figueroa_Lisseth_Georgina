@@ -1,0 +1,18 @@
+uuid = 407702a8-b816-11ee-9c99-080027308074
+name = 
+tool_name = xtrabackup
+tool_command = --backup --target-dir=/vetBackup
+tool_version = 8.0.35-30
+ibbackup_version = 8.0.35-30
+server_version = 8.0.35-0ubuntu0.22.04.1
+start_time = 2024-01-21 04:33:38
+end_time = 2024-01-21 04:33:40
+lock_time = 1
+binlog_pos = filename 'binlog.000011', position '157'
+innodb_from_lsn = 0
+innodb_to_lsn = 21179054
+partial = N
+incremental = N
+format = file
+compressed = N
+encrypted = N
